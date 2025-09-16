@@ -1,0 +1,34 @@
+.ntf-pri-btn{
+     cursor: pointer !important;
+    background-color: #e50914 !important;
+    color: white !important;
+      transition: all .4s ease-in-out;
+}
+
+.ntf-pri-btn:is(:hover,:focus,:active){
+        background-color: #c11119 !important;
+}
+ .moviemodel .sec-btn{
+  background-color:  #212529;
+  color: white;
+  font-weight: 500;
+  transition: all .4s ease-in-out;
+}
+
+.moviemodel .sec-btn:is(:hover,:active,:focus){
+  background-color:  black;
+  color: white;
+    font-weight: 500;
+}
+
+/* .moviemodel .card-footer .closebtn{
+  background-color: #e50914;
+  color: #ffff;
+  font-weight: 500;
+  transition: all .4s ease-in-out;
+}
+.moviemodel .card-footer .closebtn:hover{
+  background-color:#c11119;
+  color: #ffff;
+  font-weight: 500;
+} */
